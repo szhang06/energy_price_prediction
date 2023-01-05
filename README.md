@@ -8,7 +8,7 @@ The dataset is collected from https://www.kaggle.com/datasets/nicholasjhana/ener
 
 The purpose of this project is to demonstrate an end-to-end pipeline of a machine learning model and show how the model is deployed on the aws cloud platform. 
 
-The file has two notebooks. "Energy_Price_Prediction_XGB.ipynb" is about data processing and runs on Google colab to save billing on aws; the other one demonstrates model building, training and deployment on aws Sagemaker.
+The file has two notebooks. "Energy_Price_Prediction_XGB.ipynb" is about data processing and runs on Google colab to save billing on aws; "Energy_Price_Prediction_Sagemaker_XGB_version_1.ipynb" demonstrates model building, training and deployment on aws Sagemaker.
 
 ## Data Science Lifecycle from IBM Data Science Program
 
