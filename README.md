@@ -14,6 +14,7 @@ The file has two notebooks. "Energy_Price_Prediction_XGB.ipynb" is about data pr
 
 ![download](https://user-images.githubusercontent.com/81448993/209453475-fd0c1312-afad-4838-a7e3-ea531ece7654.png)
 
+Data visualization with Tableau is added.
 
 ## References
 1. https://github.com/aws/amazon-sagemaker-examples/blob/main/hyperparameter_tuning/xgboost_direct_marketing/hpo_xgboost_direct_marketing_sagemaker_python_sdk.ipynb
